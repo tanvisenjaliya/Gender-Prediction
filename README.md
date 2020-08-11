@@ -1,4 +1,5 @@
 # Gender-Prediction
+Using Naive Bayes Classifier we were able to classify name into males and females with 78% accuracy.
 
 Principle of Naive Bayes Classifier:
 A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. The crux of the classifier is based on the Bayes theorem.
